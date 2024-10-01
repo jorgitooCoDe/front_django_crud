@@ -16,4 +16,5 @@ Este es un proyecto de gestión de proyectos que utiliza un frontend en React co
 
 ## Instalación
 ```bash
+  npm install
   npm run dev
